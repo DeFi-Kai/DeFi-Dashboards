@@ -9,7 +9,7 @@ This dashboard compares the correlation coefficients of popular liquidity pool (
 
 [Link to Dashboard](https://flipsidecrypto.xyz/defi_kai/correlation-coefficient-for-popular-meteora-pairs-V3WBVc)
 
-### Roadmap
+### Roadmap 🚧
 - [ ] **Write Parameterized Query:** Allow users to input a token pair to view its correlation coefficient.
 - [ ] **Use Meteora Liquidity Data:** Display the highest-liquidity token pairs, by TVL, from Meteora (Table).
 - [ ] **Add prices of each asset to correlation line charts:** Overlay asset prices on correlation charts to analyze price movements and correlation trends (Line Chart).
@@ -28,7 +28,7 @@ This dashboard tracks Thala Labs' performance and compares its products to compe
 
 [Link to Dashboard](https://flipsidecrypto.xyz/defi_kai/thala-labs-dashboard-iUi98t)
 
-### Roadmap
+### Roadmap 🚧
 - [ ] **Thala Swap TVL Breakdown:** Visualize TVL distribution by asset (Pie Chart). 
 - [ ] **Gas comparison:** Compare Thala’s gas usage to other Aptos dApps to identify the top apps driving network activity (Area Chart).  
 - [ ] **30d user comparison:** Compare Thala’s user activity over the last 30 days to other Aptos dApps (Pie Chart).
